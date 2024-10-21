@@ -1,0 +1,7 @@
+node_modules
+__tests__
+coverage
+
+db.txt
+.env
+dump.rdb
